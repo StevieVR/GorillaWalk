@@ -1,0 +1,3 @@
+# Compressed releases: must stay byte for byte what was signed.
+*.dat binary
+*.md text eol=lf
